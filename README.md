@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Installed packages
 
 styled-components: yarn add styled-components </br>
-react-bootstrap: yarn add react-bootstrap@next bootstrap@5.1.1 </br>
+react-bootstrap: yarn add react-bootstrap@next bootstrap@5.1.1 </br> (Not)
 routes: yarn add react-router-dom </br>
 axios : yarn add axios </br>
 
@@ -81,5 +81,8 @@ axios : yarn add axios </br>
 react-toastify: yarn add react-tostify
 react icons: yarn add react-icons --save </br>
 reactstrap: yarn add --save reactstrap react react-dom </br>
-next js (?)
+next js (?) </br>
+chackra-ui: https://chakra-ui.com/docs/layout/flex</br>
+react-strap: https://reactstrap.github.io/ </br>
+material-ui: https://mui.com/components/ 
 

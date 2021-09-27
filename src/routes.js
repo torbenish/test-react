@@ -1,15 +1,14 @@
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
-import Home from "../views/Home";
+import Home from "./views/Home";
+import SignIn from "./views/SignIn"
 
 const Routes = () => {
   return (
     <BrowserRouter>
       <Switch>
         <Route path="/" exact component={Home} />
-        <Route path="/courses" component={Courses} />
         <Route path="/signin" component={SignIn} />
-        <Route path="/signup" component={SignUp} />
       </Switch>
     </BrowserRouter>
   );
